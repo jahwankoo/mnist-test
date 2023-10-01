@@ -1,5 +1,5 @@
 # pip install streamlit
-pip install tensorflow  # 또는 모델을 위해 다른 라이브러리 설치
+# pip install tensorflow  # 또는 모델을 위해 다른 라이브러리 설치
 
 import streamlit as st
 import tensorflow as tf  # 다른 ML 라이브러리를 사용한다면 변경
