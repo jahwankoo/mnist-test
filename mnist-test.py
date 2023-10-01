@@ -1,4 +1,4 @@
-#pip install streamlit
+# pip install streamlit
 pip install tensorflow  # 또는 모델을 위해 다른 라이브러리 설치
 
 import streamlit as st
