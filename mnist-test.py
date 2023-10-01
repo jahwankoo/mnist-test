@@ -7,7 +7,7 @@ import numpy as np
 from PIL import Image
 
 # 미리 훈련된 모델 불러오기
-model = tf.keras.models.load_model('모델의/경로')
+model = tf.keras.models.load_model('my_model.h5')
 
 st.title("손글씨 문자 분류기")
 
