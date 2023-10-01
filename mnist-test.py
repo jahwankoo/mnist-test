@@ -1,6 +1,7 @@
 import streamlit as st
-import tensorflow as tf  # 다른 ML 라이브러리를 사용한다면 변경
+import tensorflow as tf
 import numpy as np
+from PIL import Image
 from PIL import ImageOps
 
 # 미리 훈련된 모델 불러오기
